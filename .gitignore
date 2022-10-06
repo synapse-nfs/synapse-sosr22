@@ -1,0 +1,10 @@
+build
+*.pcap
+*.tsv
+*.dat
+*.pdf
+.vscode
+.partition*
+*.log*
+zlog-cfg-cur
+*.tgz
